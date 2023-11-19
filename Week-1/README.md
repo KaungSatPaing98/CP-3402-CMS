@@ -1,15 +1,15 @@
+Week -1 
 Learning Activities & Resources
-This week I setup a child theme based off the WordPress Twenty Twenty theme, and studied some of the LinkedIn Learning courses after finishing the practical to ensure that I learned everything that I needed to know about child themes, which I think may be useful for the group assignment.
+For this startup business, I chose the store for electronic gadgets. This store is selling electronic devices. So, I started to learn about electronic stores and online stores. There are so many sites that already have. I learned a lot of design and content from this site. Here is a link to what I learned.
+https://www.ishopchangi.com/en/category/electronics?utm_source=havas&utm_medium=pmax&utm_campaign=ntalwaysonfy2324&utm_term=pmaxads&utm_content=2023_sg_ao_ecp&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r1e4cZp9_sa-tNtmdC86EgnYKsT9Br1R4jaIve5boiCgulWbeXqggAaAr2vEALw_wcB&gclsrc=aw.ds&cagCollectionPoint=HOMEDELIVERYNONTRAVELLER%2FODD,HOMEDELIVERYNONTRAVELLER%2FREGULAR
+https://www.challenger.sg/
 
-https://developer.wordpress.org/themes/advanced-topics/child-themes/
-https://youtu.be/coLDoM1fQcc
-https://www.linkedin.com/learning/wordpress-building-child-themes-3/level-up-to-wordpress-developer?autoplay=true&u=2223545
+Estimated Hours - Around 4 hours
 
-Estimated Hours
-I spent about 4 hours of my own time this week on this subject, not including time I spent on the assignment.
+Content Insight
+An electronic store is essential for many photos content and designs. The site needs to be clear and customer-friendly. Therefore, I have sought out many CSS design tutorials and source code for my references. I carefully select fonts for sites, exploring various options available on Google. 
+Understanding the essence of compelling content and design in electronic retail has been paramount. This journey has underscored the significance of visually appealing layouts and engaging content to captivate potential customers. Learning from existing sites, I've gleaned insights into the importance of clarity and simplicity in conveying information, ensuring seamless navigation for users. Additionally, I've delved into the world of SEO, realizing its pivotal role in enhancing content visibility and relevance. Striving for a cohesive brand representation, I've explored various design elements contributing to a unified and memorable brand identity. Embracing responsive design principles has also been pivotal, aiming to deliver a seamless browsing experience across diverse devices. These content insights have steered my focus towards creating a user-centric, visually enticing online platform for my electronic gadgets store, ensuring an immersive and satisfying customer journey.
 
-Content Insights
-Child themes were a good introduction to theme creation for WordPress, as it helped me understand the basics without jumping right into making my own theme from nothing. It was also a small step into PHP, which I'm feeling a bit more confident about after this week. I learned that variables are created with a $ in PHP, and that overall the language is somewhat similar to Java in general (which I have some decent experience with).
+Carrer/Employability/Learning Insights
+My focus on design, content, and usability has been pivotal in exploring the world of electronic stores and online retail. The need for rich content and compelling design in an electronic store became evident through my research. Understanding the significance of a clear, customer-friendly interface led me to delve into various CSS design tutorials and font options. This pursuit of knowledge has empowered me to curate a visually appealing and user-centric online platform for my startup business. Moreover, as I continue to refine my understanding of layout and content, I aim to infuse creativity into the design process, ensuring that the site stands out while meeting the practical needs of potential customers.
 
-Career/Employability/Learning Insights
-After completing the practical, I started to look at the LinkedIn Learning course on child themes to see if they gave any more insight that I did not obtain from the work I did in the practical. I did learn some things that I would not have learned otherwise, such as some of the more advanced CSS I did not learn in Web Design, which I think could be very useful in creating more minute detail in my websites in the future. From this strategy to learning this week, I have concluded that this approach to learning could be effective, but looking at guides, then doing some of the work, then going back to tutorials works better for me, as I discussed in an earlier week.
