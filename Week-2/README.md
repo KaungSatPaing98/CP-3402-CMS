@@ -28,18 +28,19 @@ Engaging gadget enthusiasts directly aligns with Gadgets Master's commitment to 
 Attain the outlined metrics of increased website traffic, improved page engagement, and heightened gadget-related sales within the specified timelines of 6 months and 3 months, commencing from the initiation date of the strategies.
 
 
-Learning Activities & Resources
+### Learning Activities & Resources
+
 Watching numerous YouTube tutorials for basic Joomla setup:
 - [YouTube Video](https://youtu.be/h5VZwTLdgdM)
 
 
-Estimated Hours: 
+### Estimated Hours: 
 Around 6 hours
 
-Content Insight
+### Content Insight
 The Joomla platform focused specifically on content management systems (CMS) and its application for an electronic gadgets online store. Explored template and header styles, creation of articles and categories, and the versatility of building both single articles and blog pages. Found Joomla to be beginner-friendly and particularly intriguing when crafting blog pages.
 
-Career/Employability/Learning Insights
+### Career/Employability/Learning Insights
 Engaged extensively with YouTube tutorials, following step-by-step guides for the Joomla website setup. Learned the fundamental aspects of CMS for an online store, enhancing familiarity with article creation, template styling, and blog page structuring. 
 
 
