@@ -1,7 +1,7 @@
 # Student Name - Kaung Sat Paing
 # Student ID - 14399033
 
-# Website Name - AIR KSP
+# (1)Website Name - AIR KSP
 Made with WordPress site
 
 ## Short Introduction
@@ -27,7 +27,7 @@ Within the next 12 months, establish and finalize contracts with three artists o
 
 This SMART goal aligns with AIR KSP's vision of expanding into the high-profile clientele market, focusing on establishing partnerships with artists and celebrities for their private air travel needs during music tours, further solidifying our position as a premier provider of luxury aviation services.
 
-# Website Name - Speed Auto
+# (2)Website Name - Speed Auto
 Made with Joomla site
 
 Short Introduction
