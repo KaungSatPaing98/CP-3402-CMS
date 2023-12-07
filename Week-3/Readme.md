@@ -56,7 +56,7 @@ Numerous YouTube tutorials for basic word press are being watched
 https://www.youtube.com/watch?v=kYY88h5J86A&t=1063s&pp=ygUSd29yZHByZXNzIHR1dG9yaWFs
 
 ## Estimated Hours: 
-Approximately 4 hours and more
+Approximately 10 hours and more
 
 
 ## Content Insights:
