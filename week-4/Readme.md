@@ -21,4 +21,3 @@ Dealing with technical challenges like setting up servers requires problem-solvi
 
 
 
-R
